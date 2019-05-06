@@ -1,5 +1,5 @@
 {
-  "language": "Go",
+  "language": "Test",
   "active": true,
   "blurb": "Test",
   "ignore_pattern": "example(?!.*test)",
